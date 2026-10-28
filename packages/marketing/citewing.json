@@ -13,11 +13,7 @@
       "url": "https://citewing.com/mcp",
       "auth": {
         "type": "oauth2",
-        "scopes": [
-          "read",
-          "write",
-          "offline_access"
-        ]
+        "scopes": ["read", "write", "offline_access"]
       }
     }
   ]
